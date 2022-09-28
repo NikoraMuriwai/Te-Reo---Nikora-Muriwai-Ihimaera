@@ -1,5 +1,5 @@
-#27/06/22  Nikora Muriwai-Ihimaera Te Reo Quiz
-#v.1.0
+#28/06/22  Nikora Muriwai-Ihimaera Te Reo Quiz
+#v.1.1
 
 #importing the random libary
 import random
